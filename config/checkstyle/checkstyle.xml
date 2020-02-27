@@ -21,7 +21,7 @@
 			<property name="option" value="eol"/>
 		</module>
 		<module name="CyclomaticComplexity">
-			<property name="max" value="3"/>
+			<property name="max" value="4"/>
 		</module>
 	</module>
 
