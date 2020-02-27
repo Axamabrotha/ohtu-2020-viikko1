@@ -74,7 +74,7 @@ public class VarastoTest {
 
     @Test
     public void tulostus() {
-        System.out.println(varasto);;
+        System.out.println(varasto);
     }
     
     Varasto varasto2;
