@@ -2,4 +2,4 @@ plugins:
   checkstyle:
     enabled: true
     config:
-      file: "/config/checkstyle/checkstyle.xml"
+      file: "/home/isuite/.ssh/ohtu-2020-viikko1/config/checkstyle/checkstyle.xml"
